@@ -1,4 +1,4 @@
-package fuzz
+package fuzzToken
 
 import "strconv"
 import "github.com/simpleiot/simpleiot/api"
